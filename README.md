@@ -6,3 +6,5 @@ Default opencv android SDK don't provide this so I have build this custom one fr
 
 
 Make sure you use NDK bundle upto 13B , as android has made some changes in later version of NDK which doesn't support opencv build commands. 
+
+https://medium.com/@soham24/use-opencv-in-android-with-contrib-modules-and-opencl-enabled-with-this-sdk-cf1308f0b1cf
